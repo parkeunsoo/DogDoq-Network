@@ -7,7 +7,7 @@ echo "\___ \    | |     / _ \   | |_) |   | |  "
 echo " ___) |   | |    / ___ \  |  _ <    | |  "
 echo "|____/    |_|   /_/   \_\ |_| \_\   |_|  "
 echo
-echo "Build your first network (BYFN) end-to-end test"
+echo "Build DogDoq Network!"
 echo
 CHANNEL_NAME1="$1"
 CHANNEL_NAME2="$2"
@@ -118,8 +118,6 @@ joinChannel () {
 		joinChannelWithRetry 0 2
 		joinChannelWithRetry 0 3
 		joinChannelWithRetry 0 4
-		echo "a"
-	
 }
 
 ## Create channel
@@ -140,13 +138,16 @@ updateAnchorPeers 0 3
 echo "Updating anchor peers for org4..."
 updateAnchorPeers 0 4
 
-## Install chaincode on peer0.org1 and peer0.org2
+## Install chaincode on peer0.org1
 echo "Installing chaincode on peer0.org1..."
 installChaincode 0 1
+## Install chaincode on peer0.org2
 echo "Install chaincode on peer0.org2..."
 installChaincode 0 2
+## Install chaincode on peer0.org3
 echo "Installing chaincode on peer0.org3..."
 installChaincode 0 3
+## Install chaincode on peer0.org4
 echo "Install chaincode on peer0.org4..."
 installChaincode 0 4
 # Instantiate chaincode on peer0.org1
@@ -158,13 +159,13 @@ echo "Instantiating chaincode on peer0.org2..."
 # Instantiate chaincode on peer0.org3
 echo "Instantiating chaincode on peer0.org3..."
  instantiateChaincode 0 3 2
-# Instantiate chaincode on peer0.org3
+# Instantiate chaincode on peer0.org4
 echo "Instantiating chaincode on peer0.org4..."
  instantiateChaincode 0 4 4
  
 
 echo
-echo "========= All GOOD, BYFN execution completed =========== "
+echo "========= DogDoq Network execution completed =========== "
 echo
 
 echo
