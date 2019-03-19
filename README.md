@@ -10,11 +10,6 @@
  -----------------
 ![NetworkImage](./images/dogdoq-network-image.png)
 
-  * ###### 채널1: 펫샵, 농장, 병원, DogDoq
-  * ###### 채널2: 펫샵, 농장
-  * ###### 채널3: 펫샵, 병원
-  * ###### 채널4: 펫샵, DogDoq
-
  Shared documents by organization
  --------------------------------
 ![NetworkImage2](./images/dogdoq-network-image2.png)
