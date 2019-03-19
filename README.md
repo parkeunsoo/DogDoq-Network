@@ -10,6 +10,6 @@
  -----------------
 ![NetworkImage](./images/dogdoq-network-image.png)
 
- Shared documents by organization
+ Shared documents by channel
  --------------------------------
 ![NetworkImage2](./images/dogdoq-network-image2.png)
