@@ -10,6 +10,18 @@
  -----------------
 ![NetworkImage](./images/dogdoq-network-image.png)
 
- Shared documents by channel
- --------------------------------
+ Shared Documents
+ ----------------
 ![NetworkImage2](./images/dogdoq-network-image2.png)
+
+ Network Up
+ -------------
+```bash
+ ./dogdoq.sh up
+```
+ Network Down
+ -------------
+```bash
+ ./down.sh
+```
+
