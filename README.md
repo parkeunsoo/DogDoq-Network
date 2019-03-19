@@ -9,12 +9,9 @@
 Dog + Documents = <b>DOGDOQ</b>
 </p>
 
-
  Description
  -----------
  반려동물 분양과정 투명화를 위한 프라이빗 블록체인 네트워크
- 
- ### Dog + Documents 
  
  Network Structure
  -----------------
