@@ -3,9 +3,9 @@
 [![Docker](https://img.shields.io/badge/Docker-18.09.3-blue.svg)](https://www.docker.com/)
 [![Hyperledger-Fabric](https://img.shields.io/badge/Hyperledger--Fabric-1.4.0-green.svg)](https://www.hyperledger.org/projects/fabric)
 
-![logo](./images/dogdoq-logo.png){:height="50%" width="50%"}
-
- 
+<p align="center">
+<img src="./images/dogdoq-logo.png" width="50%" height="50%">
+</p>
  
  Description
  -----------
