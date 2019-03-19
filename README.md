@@ -6,10 +6,10 @@
 
 반려동물 분양과정 투명화를 위한 프라이빗 블록체인 네트워크
 
- Network Structure
+ Network structure
  -----------------
 ![NetworkImage](./images/dogdoq-network-image.png)
 
- Shared documents by channel
+ Shared documents
  --------------------------------
 ![NetworkImage2](./images/dogdoq-network-image2.png)
