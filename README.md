@@ -12,5 +12,7 @@
   * ###### 채널2: 펫샵, 농장
   * ###### 채널3: 펫샵, 병원
   * ###### 채널4: 펫샵, DogDoq
-* ### 기관 별 공유문서
+  
+ Shared documents by organization
+ ================================
 ![NetworkImage2](./images/dogdoq-network-image2.png)
