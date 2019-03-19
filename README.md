@@ -3,6 +3,6 @@
 [![Docker](https://img.shields.io/badge/Docker-18.09.3-blue.svg)](https://www.docker.com/)
 
 ### 네트워크 구조
-![NetworkImage](https://drive.google.com/file/d/1C68BHgrdWJmwLxSPfzGPwx0Dw8Q7o74w/view?usp=sharing)
+![NetworkImage](./images/dogdoq-network-image.png)
 
 #### 기관 4개와 4개의 채널로 구성.
